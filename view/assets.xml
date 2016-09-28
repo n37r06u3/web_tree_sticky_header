@@ -2,6 +2,7 @@
     <template id="assets_backend_tree_sticky_header" name="tree sticky header" inherit_id="web.assets_backend">
         <xpath expr="." position="inside">
             <script type="text/javascript" src="/web_tree_image_preview/static/src/js/web_tree_sticky_header.js" />
+            <script type="text/javascript" src="/web_tree_image_preview/static/src/js/sticky_table_headers.js" />
         </xpath>
     </template>
 </odoo>
